@@ -16,7 +16,7 @@ The panels display:
 
 ## App Widget Sample Screenshot
 
-<img width="40%" src="https://user-images.githubusercontent.com/16917821/39574605-7507721a-4ef5-11e8-9b0e-dbd5cb5a414c.png" /> &nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/16917821/39574725-d18a04bc-4ef5-11e8-82a0-140e79196541.png" />
+<img width="40%" src="https://user-images.githubusercontent.com/16917821/39574605-7507721a-4ef5-11e8-9b0e-dbd5cb5a414c.png" /> &nbsp; &nbsp; &nbsp; &nbsp; <img width="40%" src="https://user-images.githubusercontent.com/16917821/39574725-d18a04bc-4ef5-11e8-82a0-140e79196541.png" />
 
 
 ## License
