@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppWidgetSample</string>
+
+    //widget related text
+    <string name="appwidget_text">EXAMPLE</string>
+    //app widget id
+    <string name="appwidget_id_label">Widget ID</string>
+    <string name="appwidget_id">XX</string>
+    //app widget update
+    <string name="appwidget_update_label">Last Updated</string>
+    <string name="appwidget_update">%1$d @%2$s</string>
+    //widget update button text
+    <string name="appwidget_button">UPDATE NOW</string>
+    <string name="add_widget">Add widget</string>
+</resources>
